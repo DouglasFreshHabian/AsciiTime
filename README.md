@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/DouglasFreshHabian/AsciiTime?style=flat-square)](LICENSE)
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-[![asciicast](https://asciinema.org/a/717581.svg)](https://asciinema.org/a/717581)
+[![asciicast](https://asciinema.org/a/717581.svg)](https://asciinema.org/a/717581?t=0:05)
 
 # ⏰ ASCII Time
 `asciiTime.sh` is a customizable Bash script that displays the current time in a variety of ASCII art styles, with unique themes such as Hacker, Retro, and Techno, giving your terminal a vibrant and creative look.
